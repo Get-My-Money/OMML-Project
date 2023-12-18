@@ -1,10 +1,11 @@
 # Personalization in Federated Learning
 
-## structure of the project
+In this project we are trying to examine the basics of Federated Leatning paradigm, using to alforithms:
+* L2GD
+* L2SGD+
 
-Primary analysis
+Notebook with the experiments based on algotirhms you can find [here](https://github.com/Get-My-Money/OMML-Project/blob/main/project.ipynb)
 
-...
 
 ## Related papers
 
