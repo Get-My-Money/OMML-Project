@@ -1,6 +1,6 @@
 # Personalization in Federated Learning
 
-Based on "[Federated Learning of a Mixture of Global and Local Models]" (https://arxiv.org/pdf/2002.05516.pdf) by Filip Hanzely and Peter Richtárik
+Based on ["Federated Learning of a Mixture of Global and Local Models"](https://arxiv.org/pdf/2002.05516.pdf) by Filip Hanzely and Peter Richtárik
 In this project we are trying to examine the basics of personalization paradigm in Federated Learning, using two alforithms from :
 
 * L2GD
