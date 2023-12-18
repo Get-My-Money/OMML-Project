@@ -7,6 +7,7 @@ In this project we are trying to examine the basics of personalization paradigm 
 * L2SGD+
 
 Review of paper is avaliable [here](https://github.com/Get-My-Money/OMML-Project/blob/main/Paper_Overview_analysis.pdf)
+
 Notebook with the experiments based on algotirhms you can find [here](https://github.com/Get-My-Money/OMML-Project/blob/main/project.ipynb)
 
 
