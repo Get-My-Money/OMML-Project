@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="93525362-b34c-486e-a8be-4bae0fe3d770" name="Changes" comment="No comments" />
+    <list default="true" id="93525362-b34c-486e-a8be-4bae0fe3d770" name="Changes" comment="No comments">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/project.ipynb" afterDir="false" />
+    </list>
     <list id="d1976b0b-333e-4d48-97eb-03505c3b895d" name="Compute JW" comment="No comments" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
